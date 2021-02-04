@@ -1,3 +1,3 @@
-# LLMacControl
-Customize common controls on Mac
+# LLMacControl-MacOS
+Customize common controls on MacOS
 - ![ControlDemo.gif](ControlDemo.gif)
